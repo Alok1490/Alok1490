@@ -4,7 +4,7 @@
 - 📫 How to reach me - 
        email - aloks2004ag@gmail.com
        instagram - @aloks1490 , @alokvisuals
-- ⚡ Fun fact: I'm caffeine-proof , it doesnt affect me at all . I can sleep right after drink a can of redbull.
+- ⚡ Fun fact: I'm caffeine-proof , it doesnt affect me at all . I can sleep right after drinking a can of redbull.
 
 <!---
 Alok1490/Alok1490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
