@@ -2,8 +2,8 @@
 - 👀 I’m interested in **data analytics** , **GEN-AI** and **cinematography**.
 - 🌱 I’m currently learning Data analytics and ai-ml.
 - 📫 How to reach me - 
-       email - aloks2004ag@gmail.com
-       instagram - [alokvisuals](www.instagram.com/alokvisuals)
+  - email - aloks2004ag@gmail.com
+  - instagram - [alokvisuals](www.instagram.com/alokvisuals)
 - ⚡ Fun fact: I'm caffeine-proof , it doesnt affect me at all . I can sleep right after drinking a can of redbull.
 
 <!---
