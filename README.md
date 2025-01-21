@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data analytics and ai-ml.
 - 📫 How to reach me - 
   - `email` - aloks2004ag@gmail.com
-  - instagram - [alokvisuals](https://www.instagram.com/alokvisuals/)
+  - `instagram` - [`alokvisuals`](https://www.instagram.com/alokvisuals/)
   - [`linkedin`](https://www.linkedin.com/in/aloks1490/)
 - ⚡ Fun fact: I'm caffeine-proof , it doesnt affect me at all . I can sleep right after drinking a can of redbull.
 
